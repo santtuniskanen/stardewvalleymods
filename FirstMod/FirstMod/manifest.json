@@ -1,0 +1,10 @@
+{
+  "Name": "MyFirstMod",
+  "Author": "Santtu",
+  "Version": "1.0.0",
+  "Description": "This is as a test",
+  "UniqueID": "santtu.MyFirstMod",
+  "EntryDll": "FirstMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
